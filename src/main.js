@@ -7,9 +7,9 @@ import router from './router'
 import 'element-ui/lib/theme-chalk/index.css'
 import ElementUI from 'element-ui'
 //全局引入轮播图的样式
-import 'swiper/css/swiper.min.css'
+import 'swiper/dist/css/swiper.min.css'
 //全局引入轮播图js
-import 'swiper/js/swiper.min.js'
+import 'swiper/dist/js/swiper.min.js'
 Vue.use(ElementUI)
 Vue.config.productionTip = false
 
